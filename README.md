@@ -1,7 +1,7 @@
 ## 👨‍💻 **Filipe Santana** 
 
 
-I'm 28 years old, and I currently live in Brazil. I **REALLY** *LIKE* technology and how it works.
+I'm 28 years old, and I currently live in Brazil. I **REALLY** **LIKE** technology and how it works.
 
 - 🌱 Studying...
 - 💬 Contact me at my email: fsantana.code@gmail.com
