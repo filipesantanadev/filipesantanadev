@@ -21,6 +21,10 @@
   <img align="right" alt="Filipe" height="200" width="250" src="https://i.redd.it/trzcai0gye8e1.gif">
 </div>
 
-![Snake animation](https://github.com/filipesantanadev/filipesantanadev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/filipesantanadev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/filipesantanadev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/filipesantanadev/output/github-contribution-grid-snake.svg">
+</picture>
 
 ##
