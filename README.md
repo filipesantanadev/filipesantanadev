@@ -1,8 +1,18 @@
-## Olá! Eu sou o Filipe Santana
+## Hello World! I'm Filipe Santana 😎
+<br>
 
-- 🌱 Estudando...
-- 💬 Contate-me no email: fsantana.code@gmail.com
-- 😄 Pronouns: ele/dele
+<div>
+
+I'm 28 years old, and I currently live in Brazil. I **REALLY** **LIKE** technology and how it works.
+
+- 🌱 Studying...
+- 💬 Contact me at my email: fsantana.code@gmail.com
+
+  <img align="right" alt="Filipe-Kagurabachi" height="200" width="250" src="https://i.redd.it/trzcai0gye8e1.gif">
+
+</div>
+
+This GitHub repository serves as a space where I share projects, learning experiences, and accomplishments throughout my journey. Please feel free to explore and follow my progress! 🚀
 
 <div>
   <a href="https://github.com/filipesantanadev">
@@ -11,14 +21,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-<!--   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Filipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Filipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Filipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="Filipe" height="200" width="250" src="https://i.redd.it/trzcai0gye8e1.gif">
+<!--   <img align="center" alt="Filipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+
 </div>
 
 <picture>
