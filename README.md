@@ -27,6 +27,6 @@ This GitHub repository serves as a space where I share projects, learning experi
 
 ##
 
-<div>
+<!--<div>
   <img align="right" alt="Filipe-Kagurabachi" height="200" width="250" src="https://i.redd.it/trzcai0gye8e1.gif">
-</div>
+</div>!-->
