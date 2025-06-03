@@ -3,12 +3,14 @@
 
 <div>
 
+<img align="right" alt="Filipe-Kagurabachi" height="200" width="250" src="https://i.redd.it/trzcai0gye8e1.gif">
+
 I'm 28 years old, and I currently live in Brazil. I **REALLY** **LIKE** technology and how it works.
 
 - 🌱 Studying...
 - 💬 Contact me at my email: fsantana.code@gmail.com
 
-  <img align="right" alt="Filipe-Kagurabachi" height="200" width="250" src="https://i.redd.it/trzcai0gye8e1.gif">
+
 
 </div>
 
