@@ -3,7 +3,7 @@
 
 I'm 28 years old, and I currently live in Brazil. I **REALLY** **LIKE** technology and how it works.
 
-- 🌱 Currently learning and exploring new technologies
+- 🌱 Currently learning and developing in Backend with Node.js (TypeScript) and Frontend with React.js / Vue.js
 - 💬 Contact me at my email: fsantana.code@gmail.com
 - 👉🏼 https://www.linkedin.com/in/filipe-de-souza-santana-409b351a2/
 
