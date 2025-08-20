@@ -13,6 +13,8 @@ This GitHub repository serves as a space where I share projects, learning experi
   <a href="https://github.com/filipesantanadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipesantanadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipesantanadev&layout=compact&langs_count=16&theme=dracula"/>
+
+  [![Filipesantanadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipesantanadev)](https://github.com/filipesantanadev/github-readme-stats)
 </div>
 
 <div style="display: inline_block"><br>
