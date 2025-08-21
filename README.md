@@ -20,8 +20,8 @@ const filipeSantana = {
 
 <div>
   <img 
-    height="180em" src="https://github-readme-stats.vercel.app/api?username=filipesantanadev&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipesantanadev&layout=compact&theme=tokyonight" />
+    height="180em" src="https://github-readme-stats.vercel.app/api?username=filipesantanadev&include_all_commits=true&count_private=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipesantanadev&layout=compact&theme=react" />
 </div>
 
 <br />
@@ -46,4 +46,4 @@ const filipeSantana = {
 
 ### 🚀 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipesantanadev&repo=gerenciador-tarefas-api&theme=tokyonight)](https://github.com/filipesantanadev/gerenciador-tarefas-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipesantanadev&repo=gerenciador-tarefas-api&theme=react)](https://github.com/filipesantanadev/gerenciador-tarefas-api)
