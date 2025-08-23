@@ -45,4 +45,4 @@ const filipeSantana = {
 
 ### 🚀 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipesantanadev&repo=gerenciador-tarefas-api&theme=react)](https://github.com/filipesantanadev/gerenciador-tarefas-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipesantanadev&repo=gerenciador-tarefas-api&theme=react&hide_border=true)](https://github.com/filipesantanadev/gerenciador-tarefas-api)
