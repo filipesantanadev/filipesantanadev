@@ -10,11 +10,11 @@
 ```javascript
 const filipeSantana = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
-  technologies: ["Node.js", "React.js", "Vue.js"],
+  technologies: ["Node.js", "Express", "Fastify", "React.js", "Vue.js"],
   tools: ["Vite", "Vitest", "Docker", "Git"],
   databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
   learning: ["Backend with Node.js", "Frontend with React.js and Vue.js"],
-  others: ["REST APIs", "Clean Code"]
+  others: ["REST APIs", "Clean Code", "SOLID Principles"]
 };
 ```
 
@@ -27,6 +27,8 @@ const filipeSantana = {
 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
